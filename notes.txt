@@ -26,8 +26,7 @@ div.nav-middle -> <div className="nav-middle"></div>
  https://developers.google.com/youtube/v3/docs
 
 
- Project ID: youtubeclone-472711. api key
- AIzaSyBYEh8nW0pFko_bIY7rJ5d0H0U3sVh0d2k
+
 
 
 
