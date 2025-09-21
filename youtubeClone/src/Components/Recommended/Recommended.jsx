@@ -1,5 +1,10 @@
-import React from 'react'
+import React, { useEffect, useState } from 'react'
 import './Recommended.css'
+
+import moment from 'moment'
+import { API_KEY, value_converter } from '../../data'
+
+import { Link } from 'react-router-dom'
 
 import thumbnail1 from '../../assets/thumbnail1.png'
 import thumbnail2 from '../../assets/thumbnail2.png'
@@ -10,18 +15,50 @@ import thumbnail6 from '../../assets/thumbnail6.png'
 import thumbnail7 from '../../assets/thumbnail7.png'
 import thumbnail8 from '../../assets/thumbnail8.png'
 
-const Recommended = () => {
+
+const Recommended = ({ categoryId }) => {
+
+  const [apiData, setApiData] = useState([]);
+
+  const fetchData = async () => {
+    const recommendedVideo_url = `https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=US&videoCategoryId=${categoryId}&key=${API_KEY}`;
+    await fetch(recommendedVideo_url).then(response => response.json()).then(data => setApiData(data.items))
+    // console.log(data)
+  }
+
+  useEffect(() => {
+    fetchData();
+  }, [])
+
+  
+      
   return (
     <div className='recommended'>
-    <div className="side-video-list">
-      <img src={thumbnail1} alt="" />
-      <div className="vid-info">
-        <h4>Best channel that help you to be a web developer</h4>
-        <p>GreatStack</p>
-        <p>199k Views</p>
-      </div>
+      {apiData.map((item, index) => {
+        return (
+          <Link key={index} to={`/video/${item.snippet.categoryId}/${item.id}`} className="side-video-list">
+            <img src={item.snippet.thumbnails.medium.url} alt="" />
+            <div className="vid-info">
+              <h4>{item.snippet.title}</h4>
+              <p> {item.snippet.channelTitle} </p>
+              <p>{value_converter(item.statistics.viewCount)} views &bull; {moment(item.snippet.publishedAt).fromNow()}</p>
+            </div>
+          </Link>
+        )
+      })}
+
+
+
     </div>
-    <div className="side-video-list">
+  )
+}
+
+export default Recommended
+
+
+
+
+{/* <div className="side-video-list">
       <img src={thumbnail2} alt="" />
       <div className="vid-info">
         <h4>Best channel that help you to be a web developer</h4>
@@ -76,10 +113,4 @@ const Recommended = () => {
         <p>GreatStack</p>
         <p>199k Views</p>
       </div>
-    </div>
-      
-    </div>
-  )
-}
-
-export default Recommended
+    </div> */}

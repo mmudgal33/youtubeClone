@@ -27,14 +27,15 @@ div.nav-middle -> <div className="nav-middle"></div>
 
 
 
+categoryId, videoId
+<iframe width="853" height="480" src="https://www.youtube.com/embed/irhhMLKDBZ8" title="YouTube API Walkthrough with Authentication from OAuth 2.0 Client IDs for Analytics Queries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
 
 
 
-
-
+category
 
 
 
@@ -49,296 +50,6 @@ div.nav-middle -> <div className="nav-middle"></div>
       "snippet": {
         "title": "Film & Animation",
         "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "Q0xgUf8BFM8rW3W0R9wNq809xyA",
-      "id": "2",
-      "snippet": {
-        "title": "Autos & Vehicles",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "qnpwjh5QlWM5hrnZCvHisquztC4",
-      "id": "10",
-      "snippet": {
-        "title": "Music",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "HyFIixS5BZaoBdkQdLzPdoXWipg",
-      "id": "15",
-      "snippet": {
-        "title": "Pets & Animals",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "PNU8SwXhjsF90fmkilVohofOi4I",
-      "id": "17",
-      "snippet": {
-        "title": "Sports",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "5kFljz9YJ4lEgSfVwHWi5kTAwAs",
-      "id": "18",
-      "snippet": {
-        "title": "Short Movies",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "ANnLQyzEA_9m3bMyJXMhKTCOiyg",
-      "id": "19",
-      "snippet": {
-        "title": "Travel & Events",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "0Hh6gbZ9zWjnV3sfdZjKB5LQr6E",
-      "id": "20",
-      "snippet": {
-        "title": "Gaming",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "q8Cp4pUfCD8Fuh8VJ_yl5cBCVNw",
-      "id": "21",
-      "snippet": {
-        "title": "Videoblogging",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "cHDaaqPDZsJT1FPr1-MwtyIhR28",
-      "id": "22",
-      "snippet": {
-        "title": "People & Blogs",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "3Uz364xBbKY50a2s0XQlv-gXJds",
-      "id": "23",
-      "snippet": {
-        "title": "Comedy",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "0srcLUqQzO7-NGLF7QnhdVzJQmY",
-      "id": "24",
-      "snippet": {
-        "title": "Entertainment",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "bQlQMjmYX7DyFkX4w3kT0osJyIc",
-      "id": "25",
-      "snippet": {
-        "title": "News & Politics",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "Y06N41HP_WlZmeREZvkGF0HW5pg",
-      "id": "26",
-      "snippet": {
-        "title": "Howto & Style",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "yBaNkLx4sX9NcDmFgAmxQcV4Y30",
-      "id": "27",
-      "snippet": {
-        "title": "Education",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "Mxy3A-SkmnR7MhJDZRS4DuAIbQA",
-      "id": "28",
-      "snippet": {
-        "title": "Science & Technology",
-        "assignable": true,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "4pIHL_AdN2kO7btAGAP1TvPucNk",
-      "id": "30",
-      "snippet": {
-        "title": "Movies",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "Iqol1myDwh2AuOnxjtn2AfYwJTU",
-      "id": "31",
-      "snippet": {
-        "title": "Anime/Animation",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "tzhBKCBcYWZLPai5INY4id91ss8",
-      "id": "32",
-      "snippet": {
-        "title": "Action/Adventure",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "ii8nBGYpKyl6FyzP3cmBCevdrbs",
-      "id": "33",
-      "snippet": {
-        "title": "Classics",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "Y0u9UAQCCGp60G11Arac5Mp46z4",
-      "id": "34",
-      "snippet": {
-        "title": "Comedy",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "_YDnyT205AMuX8etu8loOiQjbD4",
-      "id": "35",
-      "snippet": {
-        "title": "Documentary",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "eAl2b-uqIGRDgnlMa0EsGZjXmWg",
-      "id": "36",
-      "snippet": {
-        "title": "Drama",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "HDAW2HFOt3SqeDI00X-eL7OELfY",
-      "id": "37",
-      "snippet": {
-        "title": "Family",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "QHiWh3niw5hjDrim85M8IGF45eE",
-      "id": "38",
-      "snippet": {
-        "title": "Foreign",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "ztKcSS7GpH9uEyZk9nQCdNujvGg",
-      "id": "39",
-      "snippet": {
-        "title": "Horror",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "Ids1sm8QFeSo_cDlpcUNrnEBYWA",
-      "id": "40",
-      "snippet": {
-        "title": "Sci-Fi/Fantasy",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "qhfgS7MzzZHIy_UZ1dlawl1GbnY",
-      "id": "41",
-      "snippet": {
-        "title": "Thriller",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "TxVSfGoUyT7CJ7h7ebjg4vhIt6g",
-      "id": "42",
-      "snippet": {
-        "title": "Shorts",
-        "assignable": false,
-        "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
-      }
-    },
-    {
-      "kind": "youtube#videoCategory",
-      "etag": "o9w6eNqzjHPnNbKDujnQd8pklXM",
-      "id": "43",
-      "snippet": {
-        "title": "Shows",
-        "assignable": false,
         "channelId": "UCBR8-60-B28hp2BmDPdntcQ"
       }
     },
@@ -360,3 +71,613 @@ GET https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetai
 
 Authorization: Bearer [YOUR_ACCESS_TOKEN]
 Accept: application/json
+
+
+
+
+comments
+
+
+{
+  "kind": "youtube#commentThreadListResponse",
+  "etag": "hjBthL3Ykj_EGJNyryAIWolkPh0",
+  "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNKMGdHQUVTQlFpb0lCZ0FFZ1VJaHlBWUFCSUZDSWdnR0FBU0JRaUpJQmdBSWc0S0RBamt1T1hDQmhDZzRlcjVBUQ==",
+  "pageInfo": {
+    "totalResults": 50,
+    "resultsPerPage": 50
+  },
+  "items": [
+    {
+      "kind": "youtube#commentThread",
+      "etag": "eHxG4_B2iSEpjVXQxVBZZZ6uGnM",
+      "id": "UgyD6M-S2jLvlbfXq4N4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "x01wytdi2Kp64Y2uN6TTqeEkbvU",
+          "id": "UgyD6M-S2jLvlbfXq4N4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Being able to annoy your siblings...priceless!",
+            "textOriginal": "Being able to annoy your siblings...priceless!",
+            "authorDisplayName": "@nexxterra",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_mjJPTNoO9_wF1JYsnz9l6EIw3G_3xoHg4o2LjAlpk=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@nexxterra",
+            "authorChannelId": {
+              "value": "UCwljksg1MvKGfBQVrX-eBRw"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 0,
+            "publishedAt": "2025-09-19T20:14:08Z",
+            "updatedAt": "2025-09-19T20:14:08Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "33T8rwUbO3h6f3jKUVg0elXRw2M",
+      "id": "UgxfciaQn_mzROKlWph4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "TApoKPbAHtGKWuQA_pykBQv8SZs",
+          "id": "UgxfciaQn_mzROKlWph4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "Well duh of course people play differently when real money is involved",
+            "textOriginal": "Well duh of course people play differently when real money is involved",
+            "authorDisplayName": "@adriandahlstedt",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/T9cDCOz__r8ifMSD2l470sJdli83uzZ_8Djga3wt56QUScDZbDj4FZ6uivYl5GR0W9jn6lNqXA=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@adriandahlstedt",
+            "authorChannelId": {
+              "value": "UCQDD4ZBEmg-by2WEpNtEbLg"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-06-24T15:07:29Z",
+            "updatedAt": "2025-06-24T15:07:29Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    },
+    {
+      "kind": "youtube#commentThread",
+      "etag": "CYWh-157o3maQ9fgihbso-Z3sMU",
+      "id": "UgxjH9bUtj9NKGRfvVR4AaABAg",
+      "snippet": {
+        "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+        "videoId": "_VB39Jo8mAQ",
+        "topLevelComment": {
+          "kind": "youtube#comment",
+          "etag": "etMSI1uRrE0nldJXbTgGLK_U6S8",
+          "id": "UgxjH9bUtj9NKGRfvVR4AaABAg",
+          "snippet": {
+            "channelId": "UCsT0YIqwnpJCM-mx7-gSA4Q",
+            "videoId": "_VB39Jo8mAQ",
+            "textDisplay": "I think the lack of good paying jobs is really what sucks. CEO pay shouldn’t be what it is.",
+            "textOriginal": "I think the lack of good paying jobs is really what sucks. CEO pay shouldn’t be what it is.",
+            "authorDisplayName": "@NewPodComp",
+            "authorProfileImageUrl": "https://yt3.ggpht.com/5oHKC0jU7e_-TdPr-deH0Qi265zYoXrUdE3t4SdjyDaoBJHSep3JzUOMkkJXErS6kdTMVYZGTTE=s48-c-k-c0x00ffffff-no-rj",
+            "authorChannelUrl": "http://www.youtube.com/@NewPodComp",
+            "authorChannelId": {
+              "value": "UCNGOrSzEzXcjuijsaJexm9A"
+            },
+            "canRate": true,
+            "viewerRating": "none",
+            "likeCount": 1,
+            "publishedAt": "2025-06-23T13:53:40Z",
+            "updatedAt": "2025-06-23T13:53:40Z"
+          }
+        },
+        "canReply": true,
+        "totalReplyCount": 0,
+        "isPublic": true
+      }
+    }
+  ]
+}
+
+
+
+
+
+
+
+
+
+
+
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "UpCng7Zp0LhO0NqSTC4yiVc-qfA",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "KHrxa2YzBiO3jbcrSOleD_gtHRY",
+      "id": "E_0y8bmIATM",
+      "snippet": {
+        "publishedAt": "2025-09-19T04:00:07Z",
+        "channelId": "UCxMAbVFmxKUVGAll0WVGpFw",
+        "title": "Cardi B - Safe (feat. Kehlani) [Official Music Video]",
+        "description": "Cardi B - Safe (feat. Kehlani) \n\nMy new album AM I THE DRAMA? is out NOW. \nListen now: https://cardib.lnk.to/AITD \n\nSubscribe for more official content from Cardi B: https://CardiB.lnk.to/Subscribe\n\nFollow Cardi B\nhttp://cardibofficial.com\nhttp://Instagram.com/iamcardib\nhttps://www.tiktok.com/@iamcardib\nhttp://Twitter.com/IAmCardiB\nhttps://Facebook.com/cardib\nhttp://Soundcloud.com/IAmCardiB\n\nPRODUCTION COMPANY: @mgxcreative\nDIRECTOR: @arrad\nCEO, EXECUTIVE PRODUCER: @karam\nCO-FOUNDER/MANAGING DIRECTOR: @austinbarbera\nEP, HEAD OF CONTENT: Andrew Primavera\nEP: @jonnyedwards\nHEAD OF PRODUCTION: @coal_sanch, Blase Biello\nPRODUCTION MANAGER: @ambss.jpg\nPRODUCTION COORDINATOR: @charley_rose_\nHEAD OF POST: Alex Ramos, Harrizon Kunz\nSR. POST PRODUCER: Joaquin Villalobos\nASST. EDITOR: @yessenia.sanchez21\nVP / VIDEO OPERATIONS: @lilamander\nVP, CREATIVE: @kxreemjxhnsxn\nVP, CREATIVE / CONTENT: @shainastein\nVP / MARKETING: Tashana Ventura\nCREATIVE DIRECTOR / CREAM LABS: @iam_kingpee\nMANAGER / FULL STOP MGMT: Shawn Holiday\nFULL STOP MGMT: Courtney Worrell\nFULL STOP MGMT: Bianca Bibbs\nMANAGEMENT: David Ali\nLINE PRODUCER: @dmardis\nPRODUCTION SUPERVISOR: Brent Pennington\nPROD. COORDINATOR: Alex Duarte\nASST PROD. COORDINATOR: Daniel Moores\nCHOREOGRAPHER: @itsbankhead\n1ST AD: @allminds\n2ND AD: @alexandriacardiel\n2ND 2ND AD: Natanael Negron Diaz\nDP: @nykallen\n1ST AC: @amarqz\n2ND AC: @lee_mus\nDIT: @chrisrobinbrooks\nSTEDICAM: @steadi.g\nTECHNO OP: Eli Franks\nCAMERA UTITLITY: @framedby35\nGAFFER: @sebastien.nuta\nBBE: @jacksonmach_\nELECTRIC: #chrisginnaven\nELECTRIC: @trampledroach\nELECTRIC: @khashitahamtan\nELECTRIC: #nasserakkari\nELECTRIC: Michael Proa\nELECTRIC: Dan Eckert\nKEY GRIP: @picasso_319\nBBG: Jason Blaise Cunningham\nGRIP: Abel Soto\nGRIP: @griffinrez\nGRIP: David Nunez\nGRIP: Garrett Waite\nGRIP: @ethan.mutz\nPROD. DESIGNER: @tatianavansauter\nLEADMAN: Jon Hirsch\nDRESSER/DRIVER: Alex Fox\nONSET DRESSER: Karen Rich\nSET DRESSER: Brian Selkie\nSET DRESSER: Carlos Martínez\nART PA: Bobby Guevara\nART PA: Clark Wong\nART PA: #adriantolgrave\nPROP ASSIST: Cindy Chou\nPROP ASSIST: Jacob Davich\nPROPMASTER: Jacob Kloud\nPROPMASTER: Brandon Miller\nFOOD STYLIST: Melissa McSorely\nWARDROBE: @tinaontwo\nWARDROBE: #alaynalicardi\nHMU LEAD: @briellemckenna\nHMU ASST.: #rochelleyuribe-davila\nHAIRSTYLIST: #quransmith\nMAKEUP ARTIST: #troyebatiste\nKEHLANI'S ASSISTANT: #sierrastevens\nKEHLANI SECURITY: #jonjon\nTALENT COORDINATOR: #carolynchacon\nTALENT - LEAD: @donbenjamin\nTALENT: #jannaaosborne\nTALENT - BODY DOUBLE: #lolaakinola\nTALENT: #johncampbell-mac\nTALENT: #marcodelvecchio\nPA: #shabbirrizvi\nPA: #sarahthurman\nPA: #jesussoto\nPA: #aliciasadler\nPA: #finleyjones\nPA: #carlossalazar\nPA: #chrislittle\nCRAFT SERVICES: #geraldinecolon\nCATERING: @chefsontheruncatering\nCATERING: @tacoshellyeah\nLOCATION MANAGER: @video_haus\nSTUNT COORD: @tsnegoff\nSET MEDIC: @nickstewart.5\nSET MEDIC: #corinagallentine\nSECURITY: #antoinebennett\nSECURITY: #royblanchard\nAUTO DETAILER: @thewizwash\nPOST PRODUCER: @skulleyb\n\nBardi Gang merchandise available here: https://store.cardib.com/\n\nThe official YouTube channel of Atlantic Records artist Cardi B. Subscribe for the latest music videos, performances, and more.\n\n#CardiB #Kehlani #OfficialVideo",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/E_0y8bmIATM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/E_0y8bmIATM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/E_0y8bmIATM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/E_0y8bmIATM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/E_0y8bmIATM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Cardi B",
+        "tags": [
+          "Cardi B",
+          "Cardi",
+          "Atlantic Records",
+          "rap",
+          "hip hop",
+          "trap",
+          "latin",
+          "Bodak Yellow",
+          "bloody shoes",
+          "red bottoms",
+          "i like it",
+          "invasion of privacy",
+          "offset",
+          "bruno mars",
+          "finesse",
+          "Cardi B Kehlani",
+          "Cardi B Kehlani Safe",
+          "Cardi B Safe",
+          "Cardi B Safe Kehlani Video"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Cardi B - Safe (feat. Kehlani) [Official Music Video]",
+          "description": "Cardi B - Safe (feat. Kehlani) \n\nMy new album AM I THE DRAMA? is out NOW. \nListen now: https://cardib.lnk.to/AITD \n\nSubscribe for more official content from Cardi B: https://CardiB.lnk.to/Subscribe\n\nFollow Cardi B\nhttp://cardibofficial.com\nhttp://Instagram.com/iamcardib\nhttps://www.tiktok.com/@iamcardib\nhttp://Twitter.com/IAmCardiB\nhttps://Facebook.com/cardib\nhttp://Soundcloud.com/IAmCardiB\n\nPRODUCTION COMPANY: @mgxcreative\nDIRECTOR: @arrad\nCEO, EXECUTIVE PRODUCER: @karam\nCO-FOUNDER/MANAGING DIRECTOR: @austinbarbera\nEP, HEAD OF CONTENT: Andrew Primavera\nEP: @jonnyedwards\nHEAD OF PRODUCTION: @coal_sanch, Blase Biello\nPRODUCTION MANAGER: @ambss.jpg\nPRODUCTION COORDINATOR: @charley_rose_\nHEAD OF POST: Alex Ramos, Harrizon Kunz\nSR. POST PRODUCER: Joaquin Villalobos\nASST. EDITOR: @yessenia.sanchez21\nVP / VIDEO OPERATIONS: @lilamander\nVP, CREATIVE: @kxreemjxhnsxn\nVP, CREATIVE / CONTENT: @shainastein\nVP / MARKETING: Tashana Ventura\nCREATIVE DIRECTOR / CREAM LABS: @iam_kingpee\nMANAGER / FULL STOP MGMT: Shawn Holiday\nFULL STOP MGMT: Courtney Worrell\nFULL STOP MGMT: Bianca Bibbs\nMANAGEMENT: David Ali\nLINE PRODUCER: @dmardis\nPRODUCTION SUPERVISOR: Brent Pennington\nPROD. COORDINATOR: Alex Duarte\nASST PROD. COORDINATOR: Daniel Moores\nCHOREOGRAPHER: @itsbankhead\n1ST AD: @allminds\n2ND AD: @alexandriacardiel\n2ND 2ND AD: Natanael Negron Diaz\nDP: @nykallen\n1ST AC: @amarqz\n2ND AC: @lee_mus\nDIT: @chrisrobinbrooks\nSTEDICAM: @steadi.g\nTECHNO OP: Eli Franks\nCAMERA UTITLITY: @framedby35\nGAFFER: @sebastien.nuta\nBBE: @jacksonmach_\nELECTRIC: #chrisginnaven\nELECTRIC: @trampledroach\nELECTRIC: @khashitahamtan\nELECTRIC: #nasserakkari\nELECTRIC: Michael Proa\nELECTRIC: Dan Eckert\nKEY GRIP: @picasso_319\nBBG: Jason Blaise Cunningham\nGRIP: Abel Soto\nGRIP: @griffinrez\nGRIP: David Nunez\nGRIP: Garrett Waite\nGRIP: @ethan.mutz\nPROD. DESIGNER: @tatianavansauter\nLEADMAN: Jon Hirsch\nDRESSER/DRIVER: Alex Fox\nONSET DRESSER: Karen Rich\nSET DRESSER: Brian Selkie\nSET DRESSER: Carlos Martínez\nART PA: Bobby Guevara\nART PA: Clark Wong\nART PA: #adriantolgrave\nPROP ASSIST: Cindy Chou\nPROP ASSIST: Jacob Davich\nPROPMASTER: Jacob Kloud\nPROPMASTER: Brandon Miller\nFOOD STYLIST: Melissa McSorely\nWARDROBE: @tinaontwo\nWARDROBE: #alaynalicardi\nHMU LEAD: @briellemckenna\nHMU ASST.: #rochelleyuribe-davila\nHAIRSTYLIST: #quransmith\nMAKEUP ARTIST: #troyebatiste\nKEHLANI'S ASSISTANT: #sierrastevens\nKEHLANI SECURITY: #jonjon\nTALENT COORDINATOR: #carolynchacon\nTALENT - LEAD: @donbenjamin\nTALENT: #jannaaosborne\nTALENT - BODY DOUBLE: #lolaakinola\nTALENT: #johncampbell-mac\nTALENT: #marcodelvecchio\nPA: #shabbirrizvi\nPA: #sarahthurman\nPA: #jesussoto\nPA: #aliciasadler\nPA: #finleyjones\nPA: #carlossalazar\nPA: #chrislittle\nCRAFT SERVICES: #geraldinecolon\nCATERING: @chefsontheruncatering\nCATERING: @tacoshellyeah\nLOCATION MANAGER: @video_haus\nSTUNT COORD: @tsnegoff\nSET MEDIC: @nickstewart.5\nSET MEDIC: #corinagallentine\nSECURITY: #antoinebennett\nSECURITY: #royblanchard\nAUTO DETAILER: @thewizwash\nPOST PRODUCER: @skulleyb\n\nBardi Gang merchandise available here: https://store.cardib.com/\n\nThe official YouTube channel of Atlantic Records artist Cardi B. Subscribe for the latest music videos, performances, and more.\n\n#CardiB #Kehlani #OfficialVideo"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M27S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "false",
+        "licensedContent": true,
+        "regionRestriction": {
+          "blocked": [
+            "BY",
+            "RU"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "3365044",
+        "likeCount": "208469",
+        "favoriteCount": "0",
+        "commentCount": "11167"
+      }
+    },
+    
+    
+    {
+      "kind": "youtube#video",
+      "etag": "21RSP0ZyfMSDpgxnwoP32w1gVcs",
+      "id": "f1poeZFKBRo",
+      "snippet": {
+        "publishedAt": "2025-09-19T23:00:52Z",
+        "channelId": "UCgJG-YH8b_I4nc3oiHssdVA",
+        "title": "G Herbo - Reason",
+        "description": "Music video by G Herbo performing Reason.© 2025 Machine Entertainment Group LLC, under exclusive license to Republic Records, a division of UMG Recordings, Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/f1poeZFKBRo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/f1poeZFKBRo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/f1poeZFKBRo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/f1poeZFKBRo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/f1poeZFKBRo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "GHerboVEVO",
+        "tags": [
+          "Herbo",
+          "Herbo/UMG",
+          "Hip Hop"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "G Herbo - Reason",
+          "description": "Music video by G Herbo performing Reason.© 2025 Machine Entertainment Group LLC, under exclusive license to Republic Records, a division of UMG Recordings, Inc."
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT3M19S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "regionRestriction": {
+          "allowed": [
+            "AD",
+            "AE",
+            "AF",
+            "AG",
+            "AI",
+            "AL",
+            "AM",
+            "AO",
+            "AQ",
+            "AR",
+            "AS",
+            "AT",
+            "AU",
+            "AW",
+            "AX",
+            "AZ",
+            "BA",
+            "BB",
+            "BD",
+            "BE",
+            "BF",
+            "BG",
+            "BH",
+            "BI",
+            "BJ",
+            "BL",
+            "BM",
+            "BN",
+            "BO",
+            "BQ",
+            "BR",
+            "BS",
+            "BT",
+            "BV",
+            "BW",
+            "BZ",
+            "CA",
+            "CC",
+            "CD",
+            "CF",
+            "CG",
+            "CH",
+            "CI",
+            "CK",
+            "CL",
+            "CM",
+            "CN",
+            "CO",
+            "CR",
+            "CU",
+            "CV",
+            "CW",
+            "CX",
+            "CY",
+            "CZ",
+            "DE",
+            "DJ",
+            "DK",
+            "DM",
+            "DO",
+            "DZ",
+            "EC",
+            "EE",
+            "EG",
+            "EH",
+            "ER",
+            "ES",
+            "ET",
+            "FI",
+            "FJ",
+            "FK",
+            "FM",
+            "FO",
+            "FR",
+            "GA",
+            "GB",
+            "GD",
+            "GE",
+            "GF",
+            "GG",
+            "GH",
+            "GI",
+            "GL",
+            "GM",
+            "GN",
+            "GP",
+            "GQ",
+            "GR",
+            "GS",
+            "GT",
+            "GU",
+            "GW",
+            "GY",
+            "HK",
+            "HM",
+            "HN",
+            "HR",
+            "HT",
+            "HU",
+            "ID",
+            "IE",
+            "IL",
+            "IM",
+            "IN",
+            "IQ",
+            "IR",
+            "IS",
+            "IT",
+            "JE",
+            "JM",
+            "JO",
+            "JP",
+            "KE",
+            "KG",
+            "KH",
+            "KI",
+            "KM",
+            "KN",
+            "KR",
+            "KW",
+            "KY",
+            "KZ",
+            "LA",
+            "LB",
+            "LC",
+            "LI",
+            "LK",
+            "LR",
+            "LS",
+            "LT",
+            "LU",
+            "LV",
+            "LY",
+            "MA",
+            "MC",
+            "MD",
+            "ME",
+            "MF",
+            "MG",
+            "MH",
+            "MK",
+            "ML",
+            "MM",
+            "MN",
+            "MO",
+            "MP",
+            "MQ",
+            "MR",
+            "MS",
+            "MT",
+            "MU",
+            "MV",
+            "MW",
+            "MX",
+            "MY",
+            "MZ",
+            "NA",
+            "NC",
+            "NE",
+            "NF",
+            "NG",
+            "NI",
+            "NL",
+            "NO",
+            "NP",
+            "NR",
+            "NU",
+            "NZ",
+            "OM",
+            "PA",
+            "PE",
+            "PF",
+            "PG",
+            "PH",
+            "PK",
+            "PL",
+            "PM",
+            "PN",
+            "PR",
+            "PS",
+            "PT",
+            "PW",
+            "PY",
+            "QA",
+            "RE",
+            "RO",
+            "RS",
+            "RW",
+            "SA",
+            "SB",
+            "SC",
+            "SD",
+            "SE",
+            "SG",
+            "SH",
+            "SI",
+            "SJ",
+            "SK",
+            "SL",
+            "SM",
+            "SN",
+            "SO",
+            "SR",
+            "ST",
+            "SV",
+            "SX",
+            "SY",
+            "SZ",
+            "TC",
+            "TD",
+            "TF",
+            "TG",
+            "TH",
+            "TJ",
+            "TK",
+            "TL",
+            "TM",
+            "TN",
+            "TO",
+            "TR",
+            "TT",
+            "TV",
+            "TW",
+            "TZ",
+            "UA",
+            "UG",
+            "UM",
+            "US",
+            "UY",
+            "UZ",
+            "VA",
+            "VC",
+            "VE",
+            "VG",
+            "VI",
+            "VN",
+            "VU",
+            "WF",
+            "WS",
+            "YE",
+            "YT",
+            "ZA",
+            "ZM",
+            "ZW"
+          ]
+        },
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "400023",
+        "likeCount": "26446",
+        "favoriteCount": "0",
+        "commentCount": "1619"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "qdMqd68tScbt9G_SKMdxfyPbsYo",
+      "id": "stLcNWpT6mU",
+      "snippet": {
+        "publishedAt": "2025-09-19T22:24:37Z",
+        "channelId": "UCDiFRMQWpcp8_KD4vwIVicw",
+        "title": "AVENGERS DOOMSDAY: Marvel Finally Did It!",
+        "description": "Avengers Doomsday Teaser, Marvel House of M, Elizabeth Olsen Scarlet Witch Magneto, Quicksilver, Polaris. Doctor Doom House Of M Changes, Avengers Doomsday X-Men, Marvel Phase 7 X-Men Movie 2028 & Avengers Doomsday Trailer ► https://bit.ly/AwesomeSubscribe\nAlien Earth Episode 8 Finale Trailer https://www.youtube.com/watch?v=d0FXuUJa-6U&list=PLOIeYdZ3QczzNwEARuHxVretci623PP2b&index=11&pp=gAQBiAQB\nAlien Earth Episode 7 https://www.youtube.com/watch?v=0AUPmsehkho&list=PLOIeYdZ3QczzNwEARuHxVretci623PP2b&index=10&pp=gAQBiAQB\nAvengers Doomsday Trailer https://www.youtube.com/watch?v=MNlybgIx1-0&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=gAQBiAQB\nPeacemaker Season 2 Episode 4 https://www.youtube.com/watch?v=DHKubJWBo5Y&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=2&pp=gAQBiAQB\nSpider-Man Brand New Day Trailer https://www.youtube.com/watch?v=B_59lBNjosE&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=1&pp=gAQBiAQB\nFantastic Four Post Credit Scene https://www.youtube.com/watch?v=bS0k5LEl3-w&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=gAQBiAQB\nSuperman Easter Eggs https://www.youtube.com/watch?v=QgoyaMHk2RQ&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=2&pp=gAQBiAQB0gcJCdgJAYcqIYzv\nSuperman Post Credit Scene https://www.youtube.com/watch?v=7NVbJdIHKTA&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=gAQBiAQB\nEmergency Awesome New Videos https://www.youtube.com/watch?v=FeOfhzu7ZdY&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=7\n\nCovering New Avengers Scarlet Witch House Of M Teaser. House Of M Changes Explained, Elizabeth Olsen Scarlet Witch returns, Quicksilver, Magneto, Polaris Explained.\n\nAvengers Doomsday Doctor Doom Teaser. Robert Downey Jr Doctor Doom First Look. Fantastic Four meet The Avengers, Avengers Doomsday Trailer D23 Leak Breakdown and Easter Eggs. New characters, Doctor Doom's Master Plan, Deadpool, Spider-Man. Problems on Avengers Doomsday Set Filming. Ryan Reynolds next Deadpool project, X-Force Movies, Avengers Doomsday, Secret Wars plans. Deadpool 4 Announcement. Ryan Reynolds explains future of Deadpool Movies and TV Shows at Marvel. Avengers 6 Secret Wars X-Men Plan Explained. Marvel Phase 7 Mutant Saga, New X-Men Movies. \n\nWhy Ryan Reynolds Got Sued For Deadpool and Wolverine. Marvel Jokes, Deleted Scenes, Ryan Reynolds and Blake Lively lawsuit. What's going to happen as a result. And why Ryan Reynolds doesn't have to worry. And how Marvel and Deadpool and Wolverine became part of the lawsuit.\n\nX-23, Wolverine vs Hulk, Gambit Deleted Scenes, Blade Deleted Scenes, Sabretooth, Wolverine vs Sabretooth. Deadpool vs Disney Jokes, Kevin Feige Marvel Jokes and 4th Wall Breaks. Deadpool and Wolverine Post Credit Scene Jokes. Evil Iron Man Scene, The Punisher Cameo Scene, X-Men Scenes, More Deadpool Variants, More Wolverine Variants. Adamantium Explained. Ben Affleck Daredevil References, Elektra, Why Deadpool Saves Wolverine, The X-Men, Fantastic Four and Deadpool Saves The MCU.\n\nWhy Marvel is rebooting the MCU, all the marvel movies and Disney plus marvel tv shows with Avengers 6 Secret Wars. And what's going to change with all the Avengers, New Iron Man, X-Men Mutants like Wolverine, Deadpool, Fantastic Four, Ghost Rider, Spider-Man and other characters marvel previous had not been able to use \n\nMarvel MCU Reboot Plans Explained. What Happened to Marvel, Disney Plus Streaming problems, and Fixing Marvel. Lots more Marvel Trailers soon Avengers 5 Doomsday Trailer, Thunderbolts Trailer, Avengers 6 Secret Wars Trailer & Spider-Man Brand New Day Trailer videos!\n\nAvengers Doomsday Trailer via Marvel Studios\nArt via needoulsen\n\nTwitch Channel https://twitch.tv/emergencyawesome\nTwitter  https://x.com/awesomemergency\nFacebook  https://facebook.com/emergencyawesome\nInstagram  https://instagram.com/emergencyawesome\nTumblr  https://robotchallenger.com\nMy Website https://emergencyawesome.com\n\n:: Video Playlists For Shows ::\n\nNew Emergency Awesome Videos https://www.youtube.com/playlist?list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ\nHouse of The Dragon Episodes https://www.youtube.com/playlist?list=PLOIeYdZ3QczxqJeNeCsF_ghizcTS9nM4X\nLoki Episodes https://www.youtube.com/playlist?list=PLOIeYdZ3Qczy8mUNqHU-35xtTd-JpJU3l\nThe Mandalorian Episodes https://www.youtube.com/playlist?list=PLOIeYdZ3QczzsN78nOjS-ABHwKaB7KONW\nGame of Thrones Episodes https://www.youtube.com/playlist?list=SPOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q\nMarvel Movies and Avengers https://www.youtube.com/playlist?list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u\nThe Boys Season 5 Episodes https://www.youtube.com/playlist?list=PLOIeYdZ3Qczw-KMQyuCrxcxV3mSQWTAdR\nSpider Man Videos https://www.youtube.com/playlist?list=PLOIeYdZ3QczzbRhRiGhj3-MaZ_24kadOy\nThe Batman and DC Movies https://www.youtube.com/playlist?list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ\nJustice League Snyder Cut Videos https://www.youtube.com/playlist?list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ\n\nTHANKS FOR WATCHING!!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/stLcNWpT6mU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/stLcNWpT6mU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/stLcNWpT6mU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/stLcNWpT6mU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/stLcNWpT6mU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Emergency Awesome",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "AVENGERS DOOMSDAY: Marvel Finally Did It!",
+          "description": "Avengers Doomsday Teaser, Marvel House of M, Elizabeth Olsen Scarlet Witch Magneto, Quicksilver, Polaris. Doctor Doom House Of M Changes, Avengers Doomsday X-Men, Marvel Phase 7 X-Men Movie 2028 & Avengers Doomsday Trailer ► https://bit.ly/AwesomeSubscribe\nAlien Earth Episode 8 Finale Trailer https://www.youtube.com/watch?v=d0FXuUJa-6U&list=PLOIeYdZ3QczzNwEARuHxVretci623PP2b&index=11&pp=gAQBiAQB\nAlien Earth Episode 7 https://www.youtube.com/watch?v=0AUPmsehkho&list=PLOIeYdZ3QczzNwEARuHxVretci623PP2b&index=10&pp=gAQBiAQB\nAvengers Doomsday Trailer https://www.youtube.com/watch?v=MNlybgIx1-0&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=gAQBiAQB\nPeacemaker Season 2 Episode 4 https://www.youtube.com/watch?v=DHKubJWBo5Y&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=2&pp=gAQBiAQB\nSpider-Man Brand New Day Trailer https://www.youtube.com/watch?v=B_59lBNjosE&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=1&pp=gAQBiAQB\nFantastic Four Post Credit Scene https://www.youtube.com/watch?v=bS0k5LEl3-w&list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u&index=1&pp=gAQBiAQB\nSuperman Easter Eggs https://www.youtube.com/watch?v=QgoyaMHk2RQ&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=2&pp=gAQBiAQB0gcJCdgJAYcqIYzv\nSuperman Post Credit Scene https://www.youtube.com/watch?v=7NVbJdIHKTA&list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ&index=1&pp=gAQBiAQB\nEmergency Awesome New Videos https://www.youtube.com/watch?v=FeOfhzu7ZdY&list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ&index=7\n\nCovering New Avengers Scarlet Witch House Of M Teaser. House Of M Changes Explained, Elizabeth Olsen Scarlet Witch returns, Quicksilver, Magneto, Polaris Explained.\n\nAvengers Doomsday Doctor Doom Teaser. Robert Downey Jr Doctor Doom First Look. Fantastic Four meet The Avengers, Avengers Doomsday Trailer D23 Leak Breakdown and Easter Eggs. New characters, Doctor Doom's Master Plan, Deadpool, Spider-Man. Problems on Avengers Doomsday Set Filming. Ryan Reynolds next Deadpool project, X-Force Movies, Avengers Doomsday, Secret Wars plans. Deadpool 4 Announcement. Ryan Reynolds explains future of Deadpool Movies and TV Shows at Marvel. Avengers 6 Secret Wars X-Men Plan Explained. Marvel Phase 7 Mutant Saga, New X-Men Movies. \n\nWhy Ryan Reynolds Got Sued For Deadpool and Wolverine. Marvel Jokes, Deleted Scenes, Ryan Reynolds and Blake Lively lawsuit. What's going to happen as a result. And why Ryan Reynolds doesn't have to worry. And how Marvel and Deadpool and Wolverine became part of the lawsuit.\n\nX-23, Wolverine vs Hulk, Gambit Deleted Scenes, Blade Deleted Scenes, Sabretooth, Wolverine vs Sabretooth. Deadpool vs Disney Jokes, Kevin Feige Marvel Jokes and 4th Wall Breaks. Deadpool and Wolverine Post Credit Scene Jokes. Evil Iron Man Scene, The Punisher Cameo Scene, X-Men Scenes, More Deadpool Variants, More Wolverine Variants. Adamantium Explained. Ben Affleck Daredevil References, Elektra, Why Deadpool Saves Wolverine, The X-Men, Fantastic Four and Deadpool Saves The MCU.\n\nWhy Marvel is rebooting the MCU, all the marvel movies and Disney plus marvel tv shows with Avengers 6 Secret Wars. And what's going to change with all the Avengers, New Iron Man, X-Men Mutants like Wolverine, Deadpool, Fantastic Four, Ghost Rider, Spider-Man and other characters marvel previous had not been able to use \n\nMarvel MCU Reboot Plans Explained. What Happened to Marvel, Disney Plus Streaming problems, and Fixing Marvel. Lots more Marvel Trailers soon Avengers 5 Doomsday Trailer, Thunderbolts Trailer, Avengers 6 Secret Wars Trailer & Spider-Man Brand New Day Trailer videos!\n\nAvengers Doomsday Trailer via Marvel Studios\nArt via needoulsen\n\nTwitch Channel https://twitch.tv/emergencyawesome\nTwitter  https://x.com/awesomemergency\nFacebook  https://facebook.com/emergencyawesome\nInstagram  https://instagram.com/emergencyawesome\nTumblr  https://robotchallenger.com\nMy Website https://emergencyawesome.com\n\n:: Video Playlists For Shows ::\n\nNew Emergency Awesome Videos https://www.youtube.com/playlist?list=PLOIeYdZ3QczxQXxyV_2D8kuEs_QsuQIyJ\nHouse of The Dragon Episodes https://www.youtube.com/playlist?list=PLOIeYdZ3QczxqJeNeCsF_ghizcTS9nM4X\nLoki Episodes https://www.youtube.com/playlist?list=PLOIeYdZ3Qczy8mUNqHU-35xtTd-JpJU3l\nThe Mandalorian Episodes https://www.youtube.com/playlist?list=PLOIeYdZ3QczzsN78nOjS-ABHwKaB7KONW\nGame of Thrones Episodes https://www.youtube.com/playlist?list=SPOIeYdZ3QczxGuSDE8NtOuthqbKFChC0q\nMarvel Movies and Avengers https://www.youtube.com/playlist?list=PLOIeYdZ3QczwWT3yd94Xc6n-ooI85uV_u\nThe Boys Season 5 Episodes https://www.youtube.com/playlist?list=PLOIeYdZ3Qczw-KMQyuCrxcxV3mSQWTAdR\nSpider Man Videos https://www.youtube.com/playlist?list=PLOIeYdZ3QczzbRhRiGhj3-MaZ_24kadOy\nThe Batman and DC Movies https://www.youtube.com/playlist?list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ\nJustice League Snyder Cut Videos https://www.youtube.com/playlist?list=PLOIeYdZ3QczwCLH9RIm-7ui56ameRYmdQ\n\nTHANKS FOR WATCHING!!"
+        },
+        "defaultAudioLanguage": "en"
+      },
+      "contentDetails": {
+        "duration": "PT11M58S",
+        "dimension": "2d",
+        "definition": "hd",
+        "caption": "true",
+        "licensedContent": true,
+        "contentRating": {},
+        "projection": "rectangular"
+      },
+      "statistics": {
+        "viewCount": "435347",
+        "likeCount": "8185",
+        "favoriteCount": "0",
+        "commentCount": "660"
+      }
+    }
+  ],
+  "nextPageToken": "CAUQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 5
+  }
+}
